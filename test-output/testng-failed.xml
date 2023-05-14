@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="DataSetup(failed)">
+    <classes>
+      <class name="tests.e2e.DataSetup">
+        <methods>
+          <include name="wrapAllUp"/>
+          <include name="wrapUp"/>
+          <include name="TestDataSetup"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- tests.e2e.DataSetup -->
+    </classes>
+  </test> <!-- DataSetup(failed) -->
+  <test thread-count="5" name="DeleteData(failed)">
+    <classes>
+      <class name="tests.e2e.DeleteData">
+        <methods>
+          <include name="wrapAllUp"/>
+          <include name="DestroyData"/>
+          <include name="wrapUp"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- tests.e2e.DeleteData -->
+    </classes>
+  </test> <!-- DeleteData(failed) -->
+</suite> <!-- Failed suite [Suite] -->

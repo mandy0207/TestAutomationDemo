@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="urn:iso:std:iso:20022:tech:xsd:camt.053.001.02">
+    <BkToCstmrStmt>
+        <GrpHdr>
+            <MsgId>PREVDAY87473381903100000</MsgId>
+            <CreDtTm>2022-03-22T06:56:04.636116-04:00</CreDtTm>
+            <MsgRcpt>
+                <Id>
+                    <OrgId>
+                        <Othr>
+                            <Id>874733819</Id>
+                        </Othr>
+                    </OrgId>
+                </Id>
+            </MsgRcpt>
+            <AddtlInf>ENDOFDAY</AddtlInf>
+        </GrpHdr>
+        <Stmt>
+            <Id>874733819PREVDAY87473381903100000</Id>
+            <ElctrncSeqNb>87473381903100000</ElctrncSeqNb>
+            <CreDtTm>2022-03-22T06:56:26.855-05:00</CreDtTm>
+            <FrToDt>
+                <FrDtTm>2022-03-21T00:00:00</FrDtTm>
+                <ToDtTm>2022-03-21T23:59:59</ToDtTm>
+            </FrToDt>
+            <Acct>
+                <Id>
+                    <Othr>
+                        <Id>000081032655</Id>
+                        <SchmeNm>
+                            <Prtry>RBC</Prtry>
+                        </SchmeNm>
+                    </Othr>
+                </Id>
+                <Ccy>CAD</Ccy>
+                <Nm>SASKATCHEWAN MINISTR</Nm>
+                <Svcr>
+                    <FinInstnId>
+                        <BIC>ROYCCAT2</BIC>
+                        <Nm>ROYAL BANK OF CANADA</Nm>
+                    </FinInstnId>
+                </Svcr>
+            </Acct>
+            <Bal>
+                <Tp>
+                    <CdOrPrtry>
+                        <Cd>OPBD</Cd>
+                    </CdOrPrtry>
+                </Tp>
+                <Amt Ccy="CAD">8001</Amt>
+                <CdtDbtInd>CRDT</CdtDbtInd>
+                <Dt>
+                    <Dt>2022-03-21</Dt>
+                </Dt>
+            </Bal>
+            <Bal>
+                <Tp>
+                    <CdOrPrtry>
+                        <Cd>CLBD</Cd>
+                    </CdOrPrtry>
+                </Tp>
+                <Amt Ccy="CAD">1</Amt>
+                <CdtDbtInd>CRDT</CdtDbtInd>
+                <Dt>
+                    <Dt>2022-03-21</Dt>
+                </Dt>
+            </Bal>
+            <TxsSummry>
+                <TtlNtries>
+                    <NbOfNtries>1</NbOfNtries>
+                    <Sum>8000</Sum>
+                    <TtlNetNtryAmt>8000</TtlNetNtryAmt>
+                    <CdtDbtInd>DBIT</CdtDbtInd>
+                </TtlNtries>
+                <TtlCdtNtries>
+                    <NbOfNtries>0</NbOfNtries>
+                    <Sum>0</Sum>
+                </TtlCdtNtries>
+                <TtlDbtNtries>
+                    <NbOfNtries>1</NbOfNtries>
+                    <Sum>8000</Sum>
+                </TtlDbtNtries>
+            </TxsSummry>
+
+
+            <Ntry>
+                <NtryRef>CHQ            85014</NtryRef>
+                <Amt Ccy="CAD">8000</Amt>
+                <CdtDbtInd>DBIT</CdtDbtInd>
+                <Sts>BOOK</Sts>
+                <BookgDt>
+                    <DtTm>2022-03-21T06:56:26</DtTm>
+                </BookgDt>
+                <ValDt>
+                    <Dt>2022-03-21</Dt>
+                </ValDt>
+                <AcctSvcrRef>NONREF</AcctSvcrRef>
+                <BkTxCd>
+                    <Prtry>
+                        <Cd>475</Cd>
+                        <Issr>BAI</Issr>
+                    </Prtry>
+                </BkTxCd>
+                <NtryDtls>
+                    <TxDtls>
+                        <Refs>
+                            <AcctSvcrRef>NONREF</AcctSvcrRef>
+                            <TxId>85014</TxId>
+                            <ChqNb>85014</ChqNb>
+                            <Prtry>
+                                <Tp>RBC ADDL DESC</Tp>
+                                <Ref>No Data</Ref>
+                            </Prtry>
+                        </Refs>
+                        <BkTxCd>
+                            <Prtry>
+                                <Cd>0480</Cd>
+                                <Issr>RBC DDA</Issr>
+                            </Prtry>
+                        </BkTxCd>
+                    </TxDtls>
+                </NtryDtls>
+            </Ntry>
+
+
+
+        </Stmt>
+    </BkToCstmrStmt>
+</Document>
