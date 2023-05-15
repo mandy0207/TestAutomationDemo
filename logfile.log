@@ -214,3 +214,601 @@
 2023-05-14 18:15:44,062 Number of testcases Failed : 0 
 2023-05-14 18:15:44,062 Number of testcases Skipped  : 0 
 2023-05-14 18:15:44,062 ************************** Test Execution Finished ************************************ 
+2023-05-14 19:49:24,117 Starting browser <chrome> 
+2023-05-14 19:49:30,718 TestDataSetup: Test started 
+2023-05-14 19:49:30,720 ReportUtil.logMessage - info - GoTo Application, https://automationdemo.capsulecrm.com/ 
+2023-05-14 19:49:31,308 Initialize Pages 
+2023-05-14 19:49:31,378 Fill text box [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> id: login:usernameDecorate:username] : mscoding24 
+2023-05-14 19:49:31,389 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> id: login:usernameDecorate:username] 
+2023-05-14 19:49:31,402 Waiting for [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> id: login:usernameDecorate:username] 
+2023-05-14 19:49:31,506 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> id: login:usernameDecorate:username] 
+2023-05-14 19:49:31,517 Waiting for [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> id: login:usernameDecorate:username] 
+2023-05-14 19:49:31,669 Wait until element is clickable - [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> id: login:usernameDecorate:username] 
+2023-05-14 19:49:31,675 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> id: login:usernameDecorate:username] 
+2023-05-14 19:49:31,684 Waiting for [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> id: login:usernameDecorate:username] 
+2023-05-14 19:49:31,861 Fill text box [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: input[type='password']] : AutomationDemo24 
+2023-05-14 19:49:31,877 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: input[type='password']] 
+2023-05-14 19:49:31,884 Waiting for [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: input[type='password']] 
+2023-05-14 19:49:31,923 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: input[type='password']] 
+2023-05-14 19:49:31,930 Waiting for [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: input[type='password']] 
+2023-05-14 19:49:32,038 Wait until element is clickable - [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: input[type='password']] 
+2023-05-14 19:49:32,044 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: input[type='password']] 
+2023-05-14 19:49:32,052 Waiting for [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: input[type='password']] 
+2023-05-14 19:49:32,183 Click element [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: input[id='login:login']] 
+2023-05-14 19:49:32,188 Waiting for [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: input[id='login:login']] 
+2023-05-14 19:49:32,210 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: input[id='login:login']] 
+2023-05-14 19:49:32,217 Waiting for [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: input[id='login:login']] 
+2023-05-14 19:49:33,366 ReportUtil.logMessage - info - Test Description, Test Data Creation - SubTest001 
+2023-05-14 19:49:33,432 ReportUtil.logMessage - info - Test Data for testcase ID=1,  
+2023-05-14 19:49:33,450 Click element [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 19:49:33,459 Waiting for [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 19:49:33,492 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 19:49:33,502 Waiting for [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 19:49:33,792 Click element [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: .page-header__right :nth-child(3)] 
+2023-05-14 19:49:33,802 Waiting for [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: .page-header__right :nth-child(3)] 
+2023-05-14 19:49:33,880 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: .page-header__right :nth-child(3)] 
+2023-05-14 19:49:33,889 Waiting for [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: .page-header__right :nth-child(3)] 
+2023-05-14 19:49:34,149 Click element [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: [class='form-field '] .select-box:nth-child(2)] 
+2023-05-14 19:49:34,160 Waiting for [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: [class='form-field '] .select-box:nth-child(2)] 
+2023-05-14 19:49:34,187 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: [class='form-field '] .select-box:nth-child(2)] 
+2023-05-14 19:49:34,194 Waiting for [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: [class='form-field '] .select-box:nth-child(2)] 
+2023-05-14 19:49:34,329 Click element [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: .select-box__options div] 
+2023-05-14 19:49:34,330 Waiting for [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: .select-box__options div] 
+2023-05-14 19:49:34,343 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: .select-box__options div] 
+2023-05-14 19:49:34,343 Waiting for [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: .select-box__options div] 
+2023-05-14 19:49:34,502 JavaScript Fill text box [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: [class*='form-job-title']] : Plumber 
+2023-05-14 19:49:34,508 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: [class*='form-job-title']] 
+2023-05-14 19:49:34,517 Waiting for [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> css selector: [class*='form-job-title']] 
+2023-05-14 19:49:34,576 JavaScript Fill text box [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> xpath: //div[@class='filter-select__input-container']/input] : bike lost 
+2023-05-14 19:49:34,584 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> xpath: //div[@class='filter-select__input-container']/input] 
+2023-05-14 19:49:34,590 Waiting for [[ChromeDriver: chrome on WINDOWS (a9562062b06cc7c3e5ad91fd6bf89d57)] -> xpath: //div[@class='filter-select__input-container']/input] 
+2023-05-14 19:49:48,824 TestDataSetup : Test Failed : Index: 0, Size: 0 
+2023-05-14 19:49:49,772 Starting browser <chrome> 
+2023-05-14 19:49:51,452 DestroyData: Test started 
+2023-05-14 19:49:51,452 ReportUtil.logMessage - info - GoTo Application, https://automationdemo.capsulecrm.com/ 
+2023-05-14 19:49:51,963 Initialize Pages 
+2023-05-14 19:49:51,974 Fill text box [[ChromeDriver: chrome on WINDOWS (2a8b22265bfedfbab74a175e5a4a35ad)] -> id: login:usernameDecorate:username] : mscoding24 
+2023-05-14 19:49:51,979 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (2a8b22265bfedfbab74a175e5a4a35ad)] -> id: login:usernameDecorate:username] 
+2023-05-14 19:49:51,989 Waiting for [[ChromeDriver: chrome on WINDOWS (2a8b22265bfedfbab74a175e5a4a35ad)] -> id: login:usernameDecorate:username] 
+2023-05-14 19:49:52,038 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (2a8b22265bfedfbab74a175e5a4a35ad)] -> id: login:usernameDecorate:username] 
+2023-05-14 19:49:52,044 Waiting for [[ChromeDriver: chrome on WINDOWS (2a8b22265bfedfbab74a175e5a4a35ad)] -> id: login:usernameDecorate:username] 
+2023-05-14 19:49:52,165 Wait until element is clickable - [[ChromeDriver: chrome on WINDOWS (2a8b22265bfedfbab74a175e5a4a35ad)] -> id: login:usernameDecorate:username] 
+2023-05-14 19:49:52,171 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (2a8b22265bfedfbab74a175e5a4a35ad)] -> id: login:usernameDecorate:username] 
+2023-05-14 19:49:52,177 Waiting for [[ChromeDriver: chrome on WINDOWS (2a8b22265bfedfbab74a175e5a4a35ad)] -> id: login:usernameDecorate:username] 
+2023-05-14 19:49:52,295 Fill text box [[ChromeDriver: chrome on WINDOWS (2a8b22265bfedfbab74a175e5a4a35ad)] -> css selector: input[type='password']] : AutomationDemo24 
+2023-05-14 19:49:52,301 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (2a8b22265bfedfbab74a175e5a4a35ad)] -> css selector: input[type='password']] 
+2023-05-14 19:49:52,307 Waiting for [[ChromeDriver: chrome on WINDOWS (2a8b22265bfedfbab74a175e5a4a35ad)] -> css selector: input[type='password']] 
+2023-05-14 19:49:52,340 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (2a8b22265bfedfbab74a175e5a4a35ad)] -> css selector: input[type='password']] 
+2023-05-14 19:49:52,345 Waiting for [[ChromeDriver: chrome on WINDOWS (2a8b22265bfedfbab74a175e5a4a35ad)] -> css selector: input[type='password']] 
+2023-05-14 19:49:52,438 Wait until element is clickable - [[ChromeDriver: chrome on WINDOWS (2a8b22265bfedfbab74a175e5a4a35ad)] -> css selector: input[type='password']] 
+2023-05-14 19:49:52,444 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (2a8b22265bfedfbab74a175e5a4a35ad)] -> css selector: input[type='password']] 
+2023-05-14 19:49:52,449 Waiting for [[ChromeDriver: chrome on WINDOWS (2a8b22265bfedfbab74a175e5a4a35ad)] -> css selector: input[type='password']] 
+2023-05-14 19:49:52,581 Click element [[ChromeDriver: chrome on WINDOWS (2a8b22265bfedfbab74a175e5a4a35ad)] -> css selector: input[id='login:login']] 
+2023-05-14 19:49:52,588 Waiting for [[ChromeDriver: chrome on WINDOWS (2a8b22265bfedfbab74a175e5a4a35ad)] -> css selector: input[id='login:login']] 
+2023-05-14 19:49:52,608 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (2a8b22265bfedfbab74a175e5a4a35ad)] -> css selector: input[id='login:login']] 
+2023-05-14 19:49:52,616 Waiting for [[ChromeDriver: chrome on WINDOWS (2a8b22265bfedfbab74a175e5a4a35ad)] -> css selector: input[id='login:login']] 
+2023-05-14 19:49:53,557 ReportUtil.logMessage - info - Test Description **********, Test Data deletion for test case 2 
+2023-05-14 19:49:53,582 Click element [[ChromeDriver: chrome on WINDOWS (2a8b22265bfedfbab74a175e5a4a35ad)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 19:49:53,588 Waiting for [[ChromeDriver: chrome on WINDOWS (2a8b22265bfedfbab74a175e5a4a35ad)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 19:49:53,610 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (2a8b22265bfedfbab74a175e5a4a35ad)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 19:49:53,615 Waiting for [[ChromeDriver: chrome on WINDOWS (2a8b22265bfedfbab74a175e5a4a35ad)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 19:49:54,016 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (2a8b22265bfedfbab74a175e5a4a35ad)] -> css selector: .list-actions__notice] 
+2023-05-14 19:49:54,023 Waiting for [[ChromeDriver: chrome on WINDOWS (2a8b22265bfedfbab74a175e5a4a35ad)] -> css selector: .list-actions__notice] 
+2023-05-14 19:49:54,078 ReportUtil.logMessage - info - Get Element Text, 1 contact is selected on this page. Clear selection 
+2023-05-14 19:49:54,186 DestroyData : Test Failed : expected [1] but found [1 contact is selected on this page. Clear selection] 
+2023-05-14 19:49:54,865 Total number of testcases : 1 
+2023-05-14 19:49:54,865 Number of testcases Passed : 0 
+2023-05-14 19:49:54,865 Number of testcases Failed : 1 
+2023-05-14 19:49:54,865 Number of testcases Skipped  : 0 
+2023-05-14 19:49:54,865 ************************** Test Execution Finished ************************************ 
+2023-05-14 19:50:39,388 Starting browser <chrome> 
+2023-05-14 19:50:43,385 TestDataSetup: Test started 
+2023-05-14 19:50:43,387 ReportUtil.logMessage - info - GoTo Application, https://automationdemo.capsulecrm.com/ 
+2023-05-14 19:50:44,898 Initialize Pages 
+2023-05-14 19:50:44,960 Fill text box [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> id: login:usernameDecorate:username] : mscoding24 
+2023-05-14 19:50:44,971 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> id: login:usernameDecorate:username] 
+2023-05-14 19:50:44,979 Waiting for [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> id: login:usernameDecorate:username] 
+2023-05-14 19:50:45,055 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> id: login:usernameDecorate:username] 
+2023-05-14 19:50:45,063 Waiting for [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> id: login:usernameDecorate:username] 
+2023-05-14 19:50:45,204 Wait until element is clickable - [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> id: login:usernameDecorate:username] 
+2023-05-14 19:50:45,213 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> id: login:usernameDecorate:username] 
+2023-05-14 19:50:45,220 Waiting for [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> id: login:usernameDecorate:username] 
+2023-05-14 19:50:45,372 Fill text box [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: input[type='password']] : AutomationDemo24 
+2023-05-14 19:50:45,380 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: input[type='password']] 
+2023-05-14 19:50:45,386 Waiting for [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: input[type='password']] 
+2023-05-14 19:50:45,427 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: input[type='password']] 
+2023-05-14 19:50:45,435 Waiting for [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: input[type='password']] 
+2023-05-14 19:50:45,558 Wait until element is clickable - [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: input[type='password']] 
+2023-05-14 19:50:45,566 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: input[type='password']] 
+2023-05-14 19:50:45,573 Waiting for [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: input[type='password']] 
+2023-05-14 19:50:45,705 Click element [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: input[id='login:login']] 
+2023-05-14 19:50:45,714 Waiting for [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: input[id='login:login']] 
+2023-05-14 19:50:45,735 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: input[id='login:login']] 
+2023-05-14 19:50:45,741 Waiting for [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: input[id='login:login']] 
+2023-05-14 19:50:47,083 ReportUtil.logMessage - info - Test Description, Test Data Creation - SubTest001 
+2023-05-14 19:50:47,115 ReportUtil.logMessage - info - Test Data for testcase ID=1,  
+2023-05-14 19:50:47,131 Click element [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 19:50:47,138 Waiting for [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 19:50:47,170 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 19:50:47,182 Waiting for [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 19:50:47,561 Click element [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: .page-header__right :nth-child(3)] 
+2023-05-14 19:50:47,657 Waiting for [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: .page-header__right :nth-child(3)] 
+2023-05-14 19:50:47,691 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: .page-header__right :nth-child(3)] 
+2023-05-14 19:50:47,701 Waiting for [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: .page-header__right :nth-child(3)] 
+2023-05-14 19:50:48,049 Click element [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: [class='form-field '] .select-box:nth-child(2)] 
+2023-05-14 19:50:48,063 Waiting for [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: [class='form-field '] .select-box:nth-child(2)] 
+2023-05-14 19:50:48,097 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: [class='form-field '] .select-box:nth-child(2)] 
+2023-05-14 19:50:48,103 Waiting for [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: [class='form-field '] .select-box:nth-child(2)] 
+2023-05-14 19:50:48,298 Click element [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: .select-box__options div] 
+2023-05-14 19:50:48,298 Waiting for [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: .select-box__options div] 
+2023-05-14 19:50:48,316 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: .select-box__options div] 
+2023-05-14 19:50:48,316 Waiting for [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: .select-box__options div] 
+2023-05-14 19:50:48,506 JavaScript Fill text box [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: [class*='form-job-title']] : Plumber 
+2023-05-14 19:50:48,522 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: [class*='form-job-title']] 
+2023-05-14 19:50:48,534 Waiting for [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: [class*='form-job-title']] 
+2023-05-14 19:50:48,617 JavaScript Fill text box [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> xpath: //div[@class='filter-select__input-container']/input] : bike lost 
+2023-05-14 19:50:48,631 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> xpath: //div[@class='filter-select__input-container']/input] 
+2023-05-14 19:50:48,639 Waiting for [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> xpath: //div[@class='filter-select__input-container']/input] 
+2023-05-14 19:50:50,802 Click element [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: .select-box__options.search-select__dropdown [class*='search-select__'] [role='option']] 
+2023-05-14 19:50:50,802 Waiting for [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: .select-box__options.search-select__dropdown [class*='search-select__'] [role='option']] 
+2023-05-14 19:50:50,819 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: .select-box__options.search-select__dropdown [class*='search-select__'] [role='option']] 
+2023-05-14 19:50:50,819 Waiting for [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: .select-box__options.search-select__dropdown [class*='search-select__'] [role='option']] 
+2023-05-14 19:50:52,074 TestDataSetup : Test Failed : element click intercepted: Element <div aria-busy="false" aria-current="false" aria-disabled="false" aria-selected="true" class="select-box__option" id="select-box-el-61" role="option">...</div> is not clickable at point (638, 20). Other element would receive the click: <a href="https://zestia.wistia.com/medias/uhz8woyp1c" target="_blank" rel="noopener noreferrer" class="video-link video-link--block welcome-bar__demo-video-link">...</a>
+  (Session info: chrome=113.0.5672.93)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'PQA-0591LT', ip: '10.0.0.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cc32dcf79f4d96120dda0a60db1860ab, clickElement {id=A26B3BEF2F1059EACDB426ABDC292876_element_53}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Program Files (x86)\scop...}, goog:chromeOptions: {debuggerAddress: localhost:9222}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:9222/devtool..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (cc32dcf79f4d96120dda0a60db1860ab)] -> css selector: .select-box__options.search-select__dropdown [class*='search-select__'] [role='option']]
+Session ID: cc32dcf79f4d96120dda0a60db1860ab 
+2023-05-14 19:50:53,023 Starting browser <chrome> 
+2023-05-14 19:50:54,491 DestroyData: Test started 
+2023-05-14 19:50:54,491 ReportUtil.logMessage - info - GoTo Application, https://automationdemo.capsulecrm.com/ 
+2023-05-14 19:50:55,004 Initialize Pages 
+2023-05-14 19:50:55,020 Fill text box [[ChromeDriver: chrome on WINDOWS (f83eae7c388f6656b2867a242c68bc9f)] -> id: login:usernameDecorate:username] : mscoding24 
+2023-05-14 19:50:55,035 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (f83eae7c388f6656b2867a242c68bc9f)] -> id: login:usernameDecorate:username] 
+2023-05-14 19:50:55,043 Waiting for [[ChromeDriver: chrome on WINDOWS (f83eae7c388f6656b2867a242c68bc9f)] -> id: login:usernameDecorate:username] 
+2023-05-14 19:50:55,099 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (f83eae7c388f6656b2867a242c68bc9f)] -> id: login:usernameDecorate:username] 
+2023-05-14 19:50:55,107 Waiting for [[ChromeDriver: chrome on WINDOWS (f83eae7c388f6656b2867a242c68bc9f)] -> id: login:usernameDecorate:username] 
+2023-05-14 19:50:55,234 Wait until element is clickable - [[ChromeDriver: chrome on WINDOWS (f83eae7c388f6656b2867a242c68bc9f)] -> id: login:usernameDecorate:username] 
+2023-05-14 19:50:55,241 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (f83eae7c388f6656b2867a242c68bc9f)] -> id: login:usernameDecorate:username] 
+2023-05-14 19:50:55,247 Waiting for [[ChromeDriver: chrome on WINDOWS (f83eae7c388f6656b2867a242c68bc9f)] -> id: login:usernameDecorate:username] 
+2023-05-14 19:50:55,383 Fill text box [[ChromeDriver: chrome on WINDOWS (f83eae7c388f6656b2867a242c68bc9f)] -> css selector: input[type='password']] : AutomationDemo24 
+2023-05-14 19:50:55,389 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (f83eae7c388f6656b2867a242c68bc9f)] -> css selector: input[type='password']] 
+2023-05-14 19:50:55,395 Waiting for [[ChromeDriver: chrome on WINDOWS (f83eae7c388f6656b2867a242c68bc9f)] -> css selector: input[type='password']] 
+2023-05-14 19:50:55,432 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (f83eae7c388f6656b2867a242c68bc9f)] -> css selector: input[type='password']] 
+2023-05-14 19:50:55,439 Waiting for [[ChromeDriver: chrome on WINDOWS (f83eae7c388f6656b2867a242c68bc9f)] -> css selector: input[type='password']] 
+2023-05-14 19:50:55,546 Wait until element is clickable - [[ChromeDriver: chrome on WINDOWS (f83eae7c388f6656b2867a242c68bc9f)] -> css selector: input[type='password']] 
+2023-05-14 19:50:55,554 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (f83eae7c388f6656b2867a242c68bc9f)] -> css selector: input[type='password']] 
+2023-05-14 19:50:55,560 Waiting for [[ChromeDriver: chrome on WINDOWS (f83eae7c388f6656b2867a242c68bc9f)] -> css selector: input[type='password']] 
+2023-05-14 19:50:55,777 Click element [[ChromeDriver: chrome on WINDOWS (f83eae7c388f6656b2867a242c68bc9f)] -> css selector: input[id='login:login']] 
+2023-05-14 19:50:55,790 Waiting for [[ChromeDriver: chrome on WINDOWS (f83eae7c388f6656b2867a242c68bc9f)] -> css selector: input[id='login:login']] 
+2023-05-14 19:50:55,839 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (f83eae7c388f6656b2867a242c68bc9f)] -> css selector: input[id='login:login']] 
+2023-05-14 19:50:55,848 Waiting for [[ChromeDriver: chrome on WINDOWS (f83eae7c388f6656b2867a242c68bc9f)] -> css selector: input[id='login:login']] 
+2023-05-14 19:50:56,364 ReportUtil.logMessage - info - Test Description **********, Test Data deletion for test case 2 
+2023-05-14 19:50:57,325 Click element [[ChromeDriver: chrome on WINDOWS (f83eae7c388f6656b2867a242c68bc9f)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 19:50:57,339 Waiting for [[ChromeDriver: chrome on WINDOWS (f83eae7c388f6656b2867a242c68bc9f)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 19:50:57,377 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (f83eae7c388f6656b2867a242c68bc9f)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 19:50:57,390 Waiting for [[ChromeDriver: chrome on WINDOWS (f83eae7c388f6656b2867a242c68bc9f)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 19:50:57,946 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (f83eae7c388f6656b2867a242c68bc9f)] -> css selector: .list-actions__notice] 
+2023-05-14 19:50:57,960 Waiting for [[ChromeDriver: chrome on WINDOWS (f83eae7c388f6656b2867a242c68bc9f)] -> css selector: .list-actions__notice] 
+2023-05-14 19:50:58,057 ReportUtil.logMessage - info - Get Element Text, 1 contact is selected on this page. Clear selection 
+2023-05-14 19:50:58,161 DestroyData : Test Failed : expected [1] but found [1 contact is selected on this page. Clear selection] 
+2023-05-14 19:50:58,854 Total number of testcases : 1 
+2023-05-14 19:50:58,854 Number of testcases Passed : 0 
+2023-05-14 19:50:58,854 Number of testcases Failed : 1 
+2023-05-14 19:50:58,854 Number of testcases Skipped  : 0 
+2023-05-14 19:50:58,854 ************************** Test Execution Finished ************************************ 
+2023-05-14 20:17:54,841 Starting browser <chrome> 
+2023-05-14 20:18:00,611 TestDataSetup: Test started 
+2023-05-14 20:18:00,617 ReportUtil.logMessage - info - GoTo Application, https://automationdemo.capsulecrm.com/ 
+2023-05-14 20:18:01,133 Initialize Pages 
+2023-05-14 20:18:01,216 Fill text box [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> id: login:usernameDecorate:username] : mscoding24 
+2023-05-14 20:18:01,225 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:18:01,235 Waiting for [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:18:01,334 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:18:01,341 Waiting for [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:18:01,485 Wait until element is clickable - [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:18:01,492 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:18:01,502 Waiting for [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:18:01,666 Fill text box [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: input[type='password']] : AutomationDemo24 
+2023-05-14 20:18:01,672 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: input[type='password']] 
+2023-05-14 20:18:01,680 Waiting for [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: input[type='password']] 
+2023-05-14 20:18:01,721 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: input[type='password']] 
+2023-05-14 20:18:01,729 Waiting for [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: input[type='password']] 
+2023-05-14 20:18:01,844 Wait until element is clickable - [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: input[type='password']] 
+2023-05-14 20:18:01,851 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: input[type='password']] 
+2023-05-14 20:18:01,858 Waiting for [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: input[type='password']] 
+2023-05-14 20:18:01,998 Click element [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: input[id='login:login']] 
+2023-05-14 20:18:02,005 Waiting for [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: input[id='login:login']] 
+2023-05-14 20:18:02,028 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: input[id='login:login']] 
+2023-05-14 20:18:02,035 Waiting for [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: input[id='login:login']] 
+2023-05-14 20:18:03,282 ReportUtil.logMessage - info - Test Description, Test Data Creation - SubTest001 
+2023-05-14 20:18:03,320 ReportUtil.logMessage - info - Test Data for testcase ID=1,  
+2023-05-14 20:18:03,333 Click element [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:18:03,341 Waiting for [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:18:03,382 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:18:03,393 Waiting for [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:18:03,665 Click element [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: .page-header__right :nth-child(3)] 
+2023-05-14 20:18:03,672 Waiting for [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: .page-header__right :nth-child(3)] 
+2023-05-14 20:18:03,710 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: .page-header__right :nth-child(3)] 
+2023-05-14 20:18:03,724 Waiting for [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: .page-header__right :nth-child(3)] 
+2023-05-14 20:18:04,061 Click element [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: [class='form-field '] .select-box:nth-child(2)] 
+2023-05-14 20:18:04,073 Waiting for [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: [class='form-field '] .select-box:nth-child(2)] 
+2023-05-14 20:18:04,113 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: [class='form-field '] .select-box:nth-child(2)] 
+2023-05-14 20:18:04,121 Waiting for [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: [class='form-field '] .select-box:nth-child(2)] 
+2023-05-14 20:18:04,255 Click element [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: .select-box__options div] 
+2023-05-14 20:18:04,255 Waiting for [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: .select-box__options div] 
+2023-05-14 20:18:04,266 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: .select-box__options div] 
+2023-05-14 20:18:04,267 Waiting for [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: .select-box__options div] 
+2023-05-14 20:18:04,466 JavaScript Fill text box [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: [class*='form-job-title']] : Plumber 
+2023-05-14 20:18:04,471 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: [class*='form-job-title']] 
+2023-05-14 20:18:04,478 Waiting for [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: [class*='form-job-title']] 
+2023-05-14 20:18:04,564 JavaScript Fill text box [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> xpath: //div[@class='filter-select__input-container']/input] : bike lost 
+2023-05-14 20:18:04,571 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> xpath: //div[@class='filter-select__input-container']/input] 
+2023-05-14 20:18:04,578 Waiting for [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> xpath: //div[@class='filter-select__input-container']/input] 
+2023-05-14 20:18:06,710 Click element [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: .select-box__options.search-select__dropdown [class*='search-select__'] [role='option']] 
+2023-05-14 20:18:06,710 Waiting for [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: .select-box__options.search-select__dropdown [class*='search-select__'] [role='option']] 
+2023-05-14 20:18:06,722 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: .select-box__options.search-select__dropdown [class*='search-select__'] [role='option']] 
+2023-05-14 20:18:06,722 Waiting for [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: .select-box__options.search-select__dropdown [class*='search-select__'] [role='option']] 
+2023-05-14 20:18:07,985 TestDataSetup : Test Failed : element click intercepted: Element <div aria-busy="false" aria-current="false" aria-disabled="false" aria-selected="true" class="select-box__option" id="select-box-el-61" role="option">...</div> is not clickable at point (638, 11). Other element would receive the click: <div class="welcome-bar">...</div>
+  (Session info: chrome=113.0.5672.93)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'PQA-0591LT', ip: '10.0.0.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [88e0d5c90ec8472746f021e88a00fd34, clickElement {id=7B6921F5B65656E2D6E49D31723DA7BB_element_46}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\msingh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:9222}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:9222/devtool..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (88e0d5c90ec8472746f021e88a00fd34)] -> css selector: .select-box__options.search-select__dropdown [class*='search-select__'] [role='option']]
+Session ID: 88e0d5c90ec8472746f021e88a00fd34 
+2023-05-14 20:18:09,105 Starting browser <chrome> 
+2023-05-14 20:18:10,208 DestroyData: Test started 
+2023-05-14 20:18:10,209 ReportUtil.logMessage - info - GoTo Application, https://automationdemo.capsulecrm.com/ 
+2023-05-14 20:18:10,738 Initialize Pages 
+2023-05-14 20:18:10,759 Fill text box [[ChromeDriver: chrome on WINDOWS (510ab4c65b5e8a5e5c67a3f44339e13e)] -> id: login:usernameDecorate:username] : mscoding24 
+2023-05-14 20:18:10,774 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (510ab4c65b5e8a5e5c67a3f44339e13e)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:18:10,782 Waiting for [[ChromeDriver: chrome on WINDOWS (510ab4c65b5e8a5e5c67a3f44339e13e)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:18:10,844 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (510ab4c65b5e8a5e5c67a3f44339e13e)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:18:10,853 Waiting for [[ChromeDriver: chrome on WINDOWS (510ab4c65b5e8a5e5c67a3f44339e13e)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:18:10,982 Wait until element is clickable - [[ChromeDriver: chrome on WINDOWS (510ab4c65b5e8a5e5c67a3f44339e13e)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:18:10,995 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (510ab4c65b5e8a5e5c67a3f44339e13e)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:18:11,006 Waiting for [[ChromeDriver: chrome on WINDOWS (510ab4c65b5e8a5e5c67a3f44339e13e)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:18:11,172 Fill text box [[ChromeDriver: chrome on WINDOWS (510ab4c65b5e8a5e5c67a3f44339e13e)] -> css selector: input[type='password']] : AutomationDemo24 
+2023-05-14 20:18:11,179 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (510ab4c65b5e8a5e5c67a3f44339e13e)] -> css selector: input[type='password']] 
+2023-05-14 20:18:11,187 Waiting for [[ChromeDriver: chrome on WINDOWS (510ab4c65b5e8a5e5c67a3f44339e13e)] -> css selector: input[type='password']] 
+2023-05-14 20:18:11,245 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (510ab4c65b5e8a5e5c67a3f44339e13e)] -> css selector: input[type='password']] 
+2023-05-14 20:18:11,253 Waiting for [[ChromeDriver: chrome on WINDOWS (510ab4c65b5e8a5e5c67a3f44339e13e)] -> css selector: input[type='password']] 
+2023-05-14 20:18:11,358 Wait until element is clickable - [[ChromeDriver: chrome on WINDOWS (510ab4c65b5e8a5e5c67a3f44339e13e)] -> css selector: input[type='password']] 
+2023-05-14 20:18:11,364 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (510ab4c65b5e8a5e5c67a3f44339e13e)] -> css selector: input[type='password']] 
+2023-05-14 20:18:11,371 Waiting for [[ChromeDriver: chrome on WINDOWS (510ab4c65b5e8a5e5c67a3f44339e13e)] -> css selector: input[type='password']] 
+2023-05-14 20:18:11,505 Click element [[ChromeDriver: chrome on WINDOWS (510ab4c65b5e8a5e5c67a3f44339e13e)] -> css selector: input[id='login:login']] 
+2023-05-14 20:18:11,511 Waiting for [[ChromeDriver: chrome on WINDOWS (510ab4c65b5e8a5e5c67a3f44339e13e)] -> css selector: input[id='login:login']] 
+2023-05-14 20:18:11,533 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (510ab4c65b5e8a5e5c67a3f44339e13e)] -> css selector: input[id='login:login']] 
+2023-05-14 20:18:11,541 Waiting for [[ChromeDriver: chrome on WINDOWS (510ab4c65b5e8a5e5c67a3f44339e13e)] -> css selector: input[id='login:login']] 
+2023-05-14 20:18:12,566 ReportUtil.logMessage - info - Test Description **********, Test Data deletion for test case 2 
+2023-05-14 20:18:12,612 Click element [[ChromeDriver: chrome on WINDOWS (510ab4c65b5e8a5e5c67a3f44339e13e)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:18:12,624 Waiting for [[ChromeDriver: chrome on WINDOWS (510ab4c65b5e8a5e5c67a3f44339e13e)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:18:12,656 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (510ab4c65b5e8a5e5c67a3f44339e13e)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:18:12,663 Waiting for [[ChromeDriver: chrome on WINDOWS (510ab4c65b5e8a5e5c67a3f44339e13e)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:18:13,114 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (510ab4c65b5e8a5e5c67a3f44339e13e)] -> css selector: .list-actions__notice] 
+2023-05-14 20:18:13,128 Waiting for [[ChromeDriver: chrome on WINDOWS (510ab4c65b5e8a5e5c67a3f44339e13e)] -> css selector: .list-actions__notice] 
+2023-05-14 20:18:13,238 ReportUtil.logMessage - info - Get Element Text, 1 contact is selected on this page. Clear selection 
+2023-05-14 20:18:13,466 DestroyData : Test Failed : expected [1] but found [1 contact is selected on this page. Clear selection] 
+2023-05-14 20:18:14,235 Total number of testcases : 1 
+2023-05-14 20:18:14,235 Number of testcases Passed : 0 
+2023-05-14 20:18:14,235 Number of testcases Failed : 1 
+2023-05-14 20:18:14,235 Number of testcases Skipped  : 0 
+2023-05-14 20:18:14,235 ************************** Test Execution Finished ************************************ 
+2023-05-14 20:18:25,866 Starting browser <chrome> 
+2023-05-14 20:18:29,366 TestDataSetup: Test started 
+2023-05-14 20:18:29,372 ReportUtil.logMessage - info - GoTo Application, https://automationdemo.capsulecrm.com/ 
+2023-05-14 20:18:29,893 Initialize Pages 
+2023-05-14 20:18:29,964 Fill text box [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> id: login:usernameDecorate:username] : mscoding24 
+2023-05-14 20:18:29,976 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:18:29,989 Waiting for [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:18:30,063 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:18:30,071 Waiting for [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:18:30,219 Wait until element is clickable - [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:18:30,226 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:18:30,232 Waiting for [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:18:30,378 Fill text box [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: input[type='password']] : AutomationDemo24 
+2023-05-14 20:18:30,386 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: input[type='password']] 
+2023-05-14 20:18:30,392 Waiting for [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: input[type='password']] 
+2023-05-14 20:18:30,437 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: input[type='password']] 
+2023-05-14 20:18:30,443 Waiting for [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: input[type='password']] 
+2023-05-14 20:18:30,563 Wait until element is clickable - [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: input[type='password']] 
+2023-05-14 20:18:30,572 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: input[type='password']] 
+2023-05-14 20:18:30,578 Waiting for [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: input[type='password']] 
+2023-05-14 20:18:30,732 Click element [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: input[id='login:login']] 
+2023-05-14 20:18:30,740 Waiting for [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: input[id='login:login']] 
+2023-05-14 20:18:30,761 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: input[id='login:login']] 
+2023-05-14 20:18:30,769 Waiting for [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: input[id='login:login']] 
+2023-05-14 20:18:31,784 ReportUtil.logMessage - info - Test Description, Test Data Creation - SubTest001 
+2023-05-14 20:18:31,822 ReportUtil.logMessage - info - Test Data for testcase ID=1,  
+2023-05-14 20:18:31,841 Click element [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:18:31,853 Waiting for [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:18:31,896 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:18:31,908 Waiting for [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:18:32,152 Click element [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: .page-header__right :nth-child(3)] 
+2023-05-14 20:18:32,159 Waiting for [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: .page-header__right :nth-child(3)] 
+2023-05-14 20:18:32,188 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: .page-header__right :nth-child(3)] 
+2023-05-14 20:18:32,241 Waiting for [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: .page-header__right :nth-child(3)] 
+2023-05-14 20:18:32,479 Click element [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: [class='form-field '] .select-box:nth-child(2)] 
+2023-05-14 20:18:32,501 Waiting for [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: [class='form-field '] .select-box:nth-child(2)] 
+2023-05-14 20:18:32,528 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: [class='form-field '] .select-box:nth-child(2)] 
+2023-05-14 20:18:32,534 Waiting for [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: [class='form-field '] .select-box:nth-child(2)] 
+2023-05-14 20:18:32,667 Click element [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: .select-box__options div] 
+2023-05-14 20:18:32,667 Waiting for [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: .select-box__options div] 
+2023-05-14 20:18:32,678 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: .select-box__options div] 
+2023-05-14 20:18:32,678 Waiting for [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: .select-box__options div] 
+2023-05-14 20:18:32,827 JavaScript Fill text box [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: [class*='form-job-title']] : Plumber 
+2023-05-14 20:18:32,835 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: [class*='form-job-title']] 
+2023-05-14 20:18:32,842 Waiting for [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: [class*='form-job-title']] 
+2023-05-14 20:18:32,899 JavaScript Fill text box [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> xpath: //div[@class='filter-select__input-container']/input] : bike lost 
+2023-05-14 20:18:32,905 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> xpath: //div[@class='filter-select__input-container']/input] 
+2023-05-14 20:18:32,910 Waiting for [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> xpath: //div[@class='filter-select__input-container']/input] 
+2023-05-14 20:18:35,044 Click element [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: .select-box__options.search-select__dropdown [class*='search-select__'] [role='option']] 
+2023-05-14 20:18:35,044 Waiting for [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: .select-box__options.search-select__dropdown [class*='search-select__'] [role='option']] 
+2023-05-14 20:18:35,059 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: .select-box__options.search-select__dropdown [class*='search-select__'] [role='option']] 
+2023-05-14 20:18:35,059 Waiting for [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: .select-box__options.search-select__dropdown [class*='search-select__'] [role='option']] 
+2023-05-14 20:18:35,219 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: .select-box__options.search-select__dropdown [class*='search-select__'] [role='option']] 
+2023-05-14 20:18:35,220 Waiting for [[ChromeDriver: chrome on WINDOWS (6bc9703ebf803b13707227886d4012ca)] -> css selector: .select-box__options.search-select__dropdown [class*='search-select__'] [role='option']] 
+2023-05-14 20:18:41,484 TestDataSetup : Test Failed : Expected condition failed: waiting for pages.BasePage$1@3204e238 (tried for 6 second(s) with 2000 milliseconds interval)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'PQA-0591LT', ip: '10.0.0.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: driver.version: unknown 
+2023-05-14 20:18:42,545 Starting browser <chrome> 
+2023-05-14 20:18:43,698 DestroyData: Test started 
+2023-05-14 20:18:43,699 ReportUtil.logMessage - info - GoTo Application, https://automationdemo.capsulecrm.com/ 
+2023-05-14 20:18:44,259 Initialize Pages 
+2023-05-14 20:18:44,280 Fill text box [[ChromeDriver: chrome on WINDOWS (7a10e37fb8b0d7d188fea52572566d20)] -> id: login:usernameDecorate:username] : mscoding24 
+2023-05-14 20:18:44,295 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (7a10e37fb8b0d7d188fea52572566d20)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:18:44,305 Waiting for [[ChromeDriver: chrome on WINDOWS (7a10e37fb8b0d7d188fea52572566d20)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:18:44,367 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (7a10e37fb8b0d7d188fea52572566d20)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:18:44,375 Waiting for [[ChromeDriver: chrome on WINDOWS (7a10e37fb8b0d7d188fea52572566d20)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:18:44,505 Wait until element is clickable - [[ChromeDriver: chrome on WINDOWS (7a10e37fb8b0d7d188fea52572566d20)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:18:44,511 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (7a10e37fb8b0d7d188fea52572566d20)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:18:44,516 Waiting for [[ChromeDriver: chrome on WINDOWS (7a10e37fb8b0d7d188fea52572566d20)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:18:44,665 Fill text box [[ChromeDriver: chrome on WINDOWS (7a10e37fb8b0d7d188fea52572566d20)] -> css selector: input[type='password']] : AutomationDemo24 
+2023-05-14 20:18:44,674 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (7a10e37fb8b0d7d188fea52572566d20)] -> css selector: input[type='password']] 
+2023-05-14 20:18:44,679 Waiting for [[ChromeDriver: chrome on WINDOWS (7a10e37fb8b0d7d188fea52572566d20)] -> css selector: input[type='password']] 
+2023-05-14 20:18:44,722 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (7a10e37fb8b0d7d188fea52572566d20)] -> css selector: input[type='password']] 
+2023-05-14 20:18:44,730 Waiting for [[ChromeDriver: chrome on WINDOWS (7a10e37fb8b0d7d188fea52572566d20)] -> css selector: input[type='password']] 
+2023-05-14 20:18:44,858 Wait until element is clickable - [[ChromeDriver: chrome on WINDOWS (7a10e37fb8b0d7d188fea52572566d20)] -> css selector: input[type='password']] 
+2023-05-14 20:18:44,863 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (7a10e37fb8b0d7d188fea52572566d20)] -> css selector: input[type='password']] 
+2023-05-14 20:18:44,868 Waiting for [[ChromeDriver: chrome on WINDOWS (7a10e37fb8b0d7d188fea52572566d20)] -> css selector: input[type='password']] 
+2023-05-14 20:18:45,007 Click element [[ChromeDriver: chrome on WINDOWS (7a10e37fb8b0d7d188fea52572566d20)] -> css selector: input[id='login:login']] 
+2023-05-14 20:18:45,014 Waiting for [[ChromeDriver: chrome on WINDOWS (7a10e37fb8b0d7d188fea52572566d20)] -> css selector: input[id='login:login']] 
+2023-05-14 20:18:45,040 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (7a10e37fb8b0d7d188fea52572566d20)] -> css selector: input[id='login:login']] 
+2023-05-14 20:18:45,046 Waiting for [[ChromeDriver: chrome on WINDOWS (7a10e37fb8b0d7d188fea52572566d20)] -> css selector: input[id='login:login']] 
+2023-05-14 20:18:46,076 ReportUtil.logMessage - info - Test Description **********, Test Data deletion for test case 2 
+2023-05-14 20:18:46,096 Click element [[ChromeDriver: chrome on WINDOWS (7a10e37fb8b0d7d188fea52572566d20)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:18:46,112 Waiting for [[ChromeDriver: chrome on WINDOWS (7a10e37fb8b0d7d188fea52572566d20)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:18:46,147 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (7a10e37fb8b0d7d188fea52572566d20)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:18:46,156 Waiting for [[ChromeDriver: chrome on WINDOWS (7a10e37fb8b0d7d188fea52572566d20)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:18:46,592 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (7a10e37fb8b0d7d188fea52572566d20)] -> css selector: .list-actions__notice] 
+2023-05-14 20:18:46,599 Waiting for [[ChromeDriver: chrome on WINDOWS (7a10e37fb8b0d7d188fea52572566d20)] -> css selector: .list-actions__notice] 
+2023-05-14 20:18:46,660 ReportUtil.logMessage - info - Get Element Text, 1 contact is selected on this page. Clear selection 
+2023-05-14 20:18:46,892 DestroyData : Test Failed : expected [1] but found [1 contact is selected on this page. Clear selection] 
+2023-05-14 20:18:47,588 Total number of testcases : 1 
+2023-05-14 20:18:47,588 Number of testcases Passed : 0 
+2023-05-14 20:18:47,588 Number of testcases Failed : 1 
+2023-05-14 20:18:47,588 Number of testcases Skipped  : 0 
+2023-05-14 20:18:47,588 ************************** Test Execution Finished ************************************ 
+2023-05-14 20:18:56,883 Starting browser <chrome> 
+2023-05-14 20:19:00,299 TestDataSetup: Test started 
+2023-05-14 20:19:00,301 ReportUtil.logMessage - info - GoTo Application, https://automationdemo.capsulecrm.com/ 
+2023-05-14 20:19:00,862 Initialize Pages 
+2023-05-14 20:19:00,931 Fill text box [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> id: login:usernameDecorate:username] : mscoding24 
+2023-05-14 20:19:00,937 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:19:00,948 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:19:01,021 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:19:01,029 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:19:01,168 Wait until element is clickable - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:19:01,175 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:19:01,181 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:19:01,338 Fill text box [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: input[type='password']] : AutomationDemo24 
+2023-05-14 20:19:01,348 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: input[type='password']] 
+2023-05-14 20:19:01,355 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: input[type='password']] 
+2023-05-14 20:19:01,394 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: input[type='password']] 
+2023-05-14 20:19:01,400 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: input[type='password']] 
+2023-05-14 20:19:01,515 Wait until element is clickable - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: input[type='password']] 
+2023-05-14 20:19:01,521 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: input[type='password']] 
+2023-05-14 20:19:01,528 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: input[type='password']] 
+2023-05-14 20:19:01,659 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: input[id='login:login']] 
+2023-05-14 20:19:01,664 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: input[id='login:login']] 
+2023-05-14 20:19:01,685 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: input[id='login:login']] 
+2023-05-14 20:19:01,692 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: input[id='login:login']] 
+2023-05-14 20:19:02,699 ReportUtil.logMessage - info - Test Description, Test Data Creation - SubTest001 
+2023-05-14 20:19:02,735 ReportUtil.logMessage - info - Test Data for testcase ID=1,  
+2023-05-14 20:19:02,762 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:19:02,787 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:19:02,816 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:19:02,827 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:19:03,134 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .page-header__right :nth-child(3)] 
+2023-05-14 20:19:03,147 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .page-header__right :nth-child(3)] 
+2023-05-14 20:19:03,239 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .page-header__right :nth-child(3)] 
+2023-05-14 20:19:03,246 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .page-header__right :nth-child(3)] 
+2023-05-14 20:19:03,477 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class='form-field '] .select-box:nth-child(2)] 
+2023-05-14 20:19:03,487 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class='form-field '] .select-box:nth-child(2)] 
+2023-05-14 20:19:03,512 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class='form-field '] .select-box:nth-child(2)] 
+2023-05-14 20:19:03,520 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class='form-field '] .select-box:nth-child(2)] 
+2023-05-14 20:19:03,653 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options div] 
+2023-05-14 20:19:03,653 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options div] 
+2023-05-14 20:19:03,665 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options div] 
+2023-05-14 20:19:03,665 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options div] 
+2023-05-14 20:19:03,824 JavaScript Fill text box [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class*='form-job-title']] : Plumber 
+2023-05-14 20:19:03,831 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class*='form-job-title']] 
+2023-05-14 20:19:03,839 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class*='form-job-title']] 
+2023-05-14 20:19:03,914 JavaScript Fill text box [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> xpath: //div[@class='filter-select__input-container']/input] : bike lost 
+2023-05-14 20:19:03,922 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> xpath: //div[@class='filter-select__input-container']/input] 
+2023-05-14 20:19:03,929 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> xpath: //div[@class='filter-select__input-container']/input] 
+2023-05-14 20:19:06,052 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options.search-select__dropdown [class*='search-select__'] [role='option']] 
+2023-05-14 20:19:06,053 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options.search-select__dropdown [class*='search-select__'] [role='option']] 
+2023-05-14 20:19:06,063 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options.search-select__dropdown [class*='search-select__'] [role='option']] 
+2023-05-14 20:19:06,063 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options.search-select__dropdown [class*='search-select__'] [role='option']] 
+2023-05-14 20:19:06,755 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [aria-label='Projects']] 
+2023-05-14 20:19:06,765 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [aria-label='Projects']] 
+2023-05-14 20:19:06,802 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [aria-label='Projects']] 
+2023-05-14 20:19:06,811 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [aria-label='Projects']] 
+2023-05-14 20:19:06,941 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class*='nav-bar-item-add-text']] 
+2023-05-14 20:19:06,954 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class*='nav-bar-item-add-text']] 
+2023-05-14 20:19:06,988 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class*='nav-bar-item-add-text']] 
+2023-05-14 20:19:06,997 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class*='nav-bar-item-add-text']] 
+2023-05-14 20:19:07,145 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options a:nth-child(4)] 
+2023-05-14 20:19:07,156 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options a:nth-child(4)] 
+2023-05-14 20:19:07,182 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options a:nth-child(4)] 
+2023-05-14 20:19:07,193 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options a:nth-child(4)] 
+2023-05-14 20:19:07,847 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .search-select__results] 
+2023-05-14 20:19:07,857 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .search-select__results] 
+2023-05-14 20:19:07,891 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .search-select__results] 
+2023-05-14 20:19:07,897 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .search-select__results] 
+2023-05-14 20:19:08,141 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: button[type='submit']] 
+2023-05-14 20:19:08,150 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: button[type='submit']] 
+2023-05-14 20:19:08,189 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: button[type='submit']] 
+2023-05-14 20:19:08,195 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: button[type='submit']] 
+2023-05-14 20:19:09,015 ReportUtil.logMessage - info - Test Data for testcase ID=2,  
+2023-05-14 20:19:09,026 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:19:09,036 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:19:09,065 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:19:09,073 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:19:09,261 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .page-header__right :nth-child(3)] 
+2023-05-14 20:19:09,274 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .page-header__right :nth-child(3)] 
+2023-05-14 20:19:09,352 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .page-header__right :nth-child(3)] 
+2023-05-14 20:19:09,366 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .page-header__right :nth-child(3)] 
+2023-05-14 20:19:09,571 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class='form-field '] .select-box:nth-child(2)] 
+2023-05-14 20:19:09,579 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class='form-field '] .select-box:nth-child(2)] 
+2023-05-14 20:19:09,634 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class='form-field '] .select-box:nth-child(2)] 
+2023-05-14 20:19:09,644 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class='form-field '] .select-box:nth-child(2)] 
+2023-05-14 20:19:09,765 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options div] 
+2023-05-14 20:19:09,765 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options div] 
+2023-05-14 20:19:09,778 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options div] 
+2023-05-14 20:19:09,778 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options div] 
+2023-05-14 20:19:09,915 JavaScript Fill text box [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class*='form-job-title']] : Golfer 
+2023-05-14 20:19:09,921 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class*='form-job-title']] 
+2023-05-14 20:19:09,926 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class*='form-job-title']] 
+2023-05-14 20:19:09,977 JavaScript Fill text box [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> xpath: //div[@class='filter-select__input-container']/input] : car lost 
+2023-05-14 20:19:09,983 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> xpath: //div[@class='filter-select__input-container']/input] 
+2023-05-14 20:19:09,988 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> xpath: //div[@class='filter-select__input-container']/input] 
+2023-05-14 20:19:12,128 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options.search-select__dropdown [class*='search-select__'] [role='option']] 
+2023-05-14 20:19:12,129 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options.search-select__dropdown [class*='search-select__'] [role='option']] 
+2023-05-14 20:19:12,148 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options.search-select__dropdown [class*='search-select__'] [role='option']] 
+2023-05-14 20:19:12,149 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options.search-select__dropdown [class*='search-select__'] [role='option']] 
+2023-05-14 20:19:12,765 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [aria-label='Projects']] 
+2023-05-14 20:19:12,775 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [aria-label='Projects']] 
+2023-05-14 20:19:12,812 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [aria-label='Projects']] 
+2023-05-14 20:19:12,823 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [aria-label='Projects']] 
+2023-05-14 20:19:12,952 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class*='nav-bar-item-add-text']] 
+2023-05-14 20:19:12,958 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class*='nav-bar-item-add-text']] 
+2023-05-14 20:19:13,003 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class*='nav-bar-item-add-text']] 
+2023-05-14 20:19:13,013 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class*='nav-bar-item-add-text']] 
+2023-05-14 20:19:13,168 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options a:nth-child(4)] 
+2023-05-14 20:19:13,175 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options a:nth-child(4)] 
+2023-05-14 20:19:13,225 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options a:nth-child(4)] 
+2023-05-14 20:19:13,240 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options a:nth-child(4)] 
+2023-05-14 20:19:13,844 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .search-select__results] 
+2023-05-14 20:19:13,863 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .search-select__results] 
+2023-05-14 20:19:13,914 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .search-select__results] 
+2023-05-14 20:19:13,920 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .search-select__results] 
+2023-05-14 20:19:14,115 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: button[type='submit']] 
+2023-05-14 20:19:14,120 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: button[type='submit']] 
+2023-05-14 20:19:14,144 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: button[type='submit']] 
+2023-05-14 20:19:14,151 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: button[type='submit']] 
+2023-05-14 20:19:14,979 ReportUtil.logMessage - info - Test Data for testcase ID=3,  
+2023-05-14 20:19:14,993 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:19:15,005 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:19:15,048 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:19:15,056 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:19:15,243 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .page-header__right :nth-child(3)] 
+2023-05-14 20:19:15,255 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .page-header__right :nth-child(3)] 
+2023-05-14 20:19:15,290 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .page-header__right :nth-child(3)] 
+2023-05-14 20:19:15,300 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .page-header__right :nth-child(3)] 
+2023-05-14 20:19:15,558 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class='form-field '] .select-box:nth-child(2)] 
+2023-05-14 20:19:15,576 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class='form-field '] .select-box:nth-child(2)] 
+2023-05-14 20:19:15,623 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class='form-field '] .select-box:nth-child(2)] 
+2023-05-14 20:19:15,633 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class='form-field '] .select-box:nth-child(2)] 
+2023-05-14 20:19:15,786 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options div] 
+2023-05-14 20:19:15,786 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options div] 
+2023-05-14 20:19:15,799 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options div] 
+2023-05-14 20:19:15,799 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options div] 
+2023-05-14 20:19:15,926 JavaScript Fill text box [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class*='form-job-title']] : Chef 
+2023-05-14 20:19:15,932 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class*='form-job-title']] 
+2023-05-14 20:19:15,937 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class*='form-job-title']] 
+2023-05-14 20:19:16,021 JavaScript Fill text box [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> xpath: //div[@class='filter-select__input-container']/input] : cooking 
+2023-05-14 20:19:16,029 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> xpath: //div[@class='filter-select__input-container']/input] 
+2023-05-14 20:19:16,036 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> xpath: //div[@class='filter-select__input-container']/input] 
+2023-05-14 20:19:18,203 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options.search-select__dropdown [class*='search-select__'] [role='option']] 
+2023-05-14 20:19:18,203 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options.search-select__dropdown [class*='search-select__'] [role='option']] 
+2023-05-14 20:19:18,215 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options.search-select__dropdown [class*='search-select__'] [role='option']] 
+2023-05-14 20:19:18,215 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options.search-select__dropdown [class*='search-select__'] [role='option']] 
+2023-05-14 20:19:18,802 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [aria-label='Projects']] 
+2023-05-14 20:19:18,812 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [aria-label='Projects']] 
+2023-05-14 20:19:18,844 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [aria-label='Projects']] 
+2023-05-14 20:19:18,851 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [aria-label='Projects']] 
+2023-05-14 20:19:18,948 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class*='nav-bar-item-add-text']] 
+2023-05-14 20:19:18,956 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class*='nav-bar-item-add-text']] 
+2023-05-14 20:19:18,989 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class*='nav-bar-item-add-text']] 
+2023-05-14 20:19:18,998 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: [class*='nav-bar-item-add-text']] 
+2023-05-14 20:19:19,147 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options a:nth-child(4)] 
+2023-05-14 20:19:19,163 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options a:nth-child(4)] 
+2023-05-14 20:19:19,195 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options a:nth-child(4)] 
+2023-05-14 20:19:19,202 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .select-box__options a:nth-child(4)] 
+2023-05-14 20:19:19,808 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .search-select__results] 
+2023-05-14 20:19:19,819 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .search-select__results] 
+2023-05-14 20:19:19,849 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .search-select__results] 
+2023-05-14 20:19:19,858 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: .search-select__results] 
+2023-05-14 20:19:20,090 Click element [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: button[type='submit']] 
+2023-05-14 20:19:20,095 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: button[type='submit']] 
+2023-05-14 20:19:20,116 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: button[type='submit']] 
+2023-05-14 20:19:20,124 Waiting for [[ChromeDriver: chrome on WINDOWS (c77fa50b45cb0aa16f68fd13b8a2c133)] -> css selector: button[type='submit']] 
+2023-05-14 20:19:21,125 TestDataSetup : Test Passed 
+2023-05-14 20:19:22,342 Starting browser <chrome> 
+2023-05-14 20:19:23,450 DestroyData: Test started 
+2023-05-14 20:19:23,451 ReportUtil.logMessage - info - GoTo Application, https://automationdemo.capsulecrm.com/ 
+2023-05-14 20:19:23,909 Initialize Pages 
+2023-05-14 20:19:23,937 Fill text box [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> id: login:usernameDecorate:username] : mscoding24 
+2023-05-14 20:19:23,948 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:19:23,959 Waiting for [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:19:24,026 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:19:24,035 Waiting for [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:19:24,158 Wait until element is clickable - [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:19:24,163 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:19:24,169 Waiting for [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> id: login:usernameDecorate:username] 
+2023-05-14 20:19:24,332 Fill text box [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> css selector: input[type='password']] : AutomationDemo24 
+2023-05-14 20:19:24,344 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> css selector: input[type='password']] 
+2023-05-14 20:19:24,352 Waiting for [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> css selector: input[type='password']] 
+2023-05-14 20:19:24,394 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> css selector: input[type='password']] 
+2023-05-14 20:19:24,402 Waiting for [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> css selector: input[type='password']] 
+2023-05-14 20:19:24,502 Wait until element is clickable - [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> css selector: input[type='password']] 
+2023-05-14 20:19:24,507 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> css selector: input[type='password']] 
+2023-05-14 20:19:24,512 Waiting for [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> css selector: input[type='password']] 
+2023-05-14 20:19:24,631 Click element [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> css selector: input[id='login:login']] 
+2023-05-14 20:19:24,639 Waiting for [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> css selector: input[id='login:login']] 
+2023-05-14 20:19:24,656 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> css selector: input[id='login:login']] 
+2023-05-14 20:19:24,662 Waiting for [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> css selector: input[id='login:login']] 
+2023-05-14 20:19:25,852 ReportUtil.logMessage - info - Test Description **********, Test Data deletion for test case 2 
+2023-05-14 20:19:25,896 Click element [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:19:25,923 Waiting for [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:19:25,954 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:19:25,960 Waiting for [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> css selector: a[aria-label ='People & Organisations']] 
+2023-05-14 20:19:26,725 Wait until element is visible - [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> css selector: .list-actions__notice] 
+2023-05-14 20:19:26,735 Waiting for [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> css selector: .list-actions__notice] 
+2023-05-14 20:19:26,790 ReportUtil.logMessage - info - Get Element Text, 7 contacts are selected on this page. Clear selection 
+2023-05-14 20:19:27,041 Click element [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> xpath: //*[@aria-label ='Delete contacts']] 
+2023-05-14 20:19:27,051 Waiting for [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> xpath: //*[@aria-label ='Delete contacts']] 
+2023-05-14 20:19:27,072 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> xpath: //*[@aria-label ='Delete contacts']] 
+2023-05-14 20:19:27,077 Waiting for [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> xpath: //*[@aria-label ='Delete contacts']] 
+2023-05-14 20:19:27,238 Click element [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> css selector: .form-checkbox__text] 
+2023-05-14 20:19:27,246 Waiting for [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> css selector: .form-checkbox__text] 
+2023-05-14 20:19:27,274 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> css selector: .form-checkbox__text] 
+2023-05-14 20:19:27,284 Waiting for [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> css selector: .form-checkbox__text] 
+2023-05-14 20:19:29,399 Click element [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> xpath: //*[@class='form-actions']//*[@type='submit']] 
+2023-05-14 20:19:29,408 Waiting for [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> xpath: //*[@class='form-actions']//*[@type='submit']] 
+2023-05-14 20:19:29,441 Wait until element is enabled - [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> xpath: //*[@class='form-actions']//*[@type='submit']] 
+2023-05-14 20:19:29,448 Waiting for [[ChromeDriver: chrome on WINDOWS (681a6ca04e8f397b83918d69665b9d2d)] -> xpath: //*[@class='form-actions']//*[@type='submit']] 
+2023-05-14 20:19:29,999 DestroyData : Test Passed 
+2023-05-14 20:19:30,840 Total number of testcases : 1 
+2023-05-14 20:19:30,840 Number of testcases Passed : 1 
+2023-05-14 20:19:30,841 Number of testcases Failed : 0 
+2023-05-14 20:19:30,841 Number of testcases Skipped  : 0 
+2023-05-14 20:19:30,841 ************************** Test Execution Finished ************************************ 
