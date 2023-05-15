@@ -20,7 +20,7 @@ public class CaseFile {
 	public String testId;
 
 	/**
-	 * The object representation of a complete contact case in micase
+	 * 
 	 * 
 	 * @param CSV_File the file holding case data
 	 * @param row      the row to read

@@ -29,14 +29,7 @@ public class CaseFiles {
 		return this.clientFiles;
 	}
 
-	/**
-	 * Load the ClientFile objects that need to be created
-	 * 
-	 * @param CSV_File the csv file of clientfile data
-	 * @throws IOException          exception
-	 * @throws InterruptedException exception
-	 * @throws CsvException         exception
-	 */
+
 	private void loadClientFilesToCreate(String CSV_File) throws IOException, InterruptedException, CsvException {
 		int rowCount = CSVUtil.GetDatapoolRowCount(CSV_File);
 		System.out.println("Total Rows="+rowCount);
