@@ -18,7 +18,7 @@ public class ProjectPage extends BasePage {
 	@FindBy(css = "[placeholder='Find a person or organisation']")
 	private WebElement projectRelatesTo;
 	
-	@FindBy(css = ".search-select__results")
+	@FindBy(css = ".search-select__option-party")
 	private WebElement projectGuy;
 	
 	@FindBy(css = ".ember-text-area.ember-view.form-input-text")

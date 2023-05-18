@@ -3,14 +3,14 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="tests.e2e.DeleteData">
+      <class name="tests.e2e.DataSetup">
         <methods>
           <include name="wrapAllUp"/>
-          <include name="DestroyData"/>
-          <include name="globalSetup"/>
+          <include name="wrapUp"/>
+          <include name="TestDataSetup"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- tests.e2e.DeleteData -->
+      </class> <!-- tests.e2e.DataSetup -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

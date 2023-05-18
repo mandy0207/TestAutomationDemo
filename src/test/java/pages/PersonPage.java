@@ -78,6 +78,9 @@ public class PersonPage extends BasePage {
 	@FindBy(css = ".list-actions__notice")
 	private WebElement numberofcontactsBtn;
 	
+	@FindBy(css = " .select-box__options:nth-child(2)")
+	private WebElement orgoption;
+	
 	
 	
 	
@@ -116,12 +119,13 @@ public class PersonPage extends BasePage {
 		JavaScriptSetTextBox(tags_Field, person.tags);
 		organisation_Field.sendKeys(person.organisation);
         Thread.sleep(2000);
-		if(organisation_list.size()>1) {
-			ClickElement(organisation_list.get(1));
-		}
-		else {
-			ClickElement(organisation_list.get(0));
-		}
+        ClickElement(orgoption);
+//		if(organisation_list.size()>1) {
+//			ClickElement(organisation_list.get(1));
+//		}
+//		else {
+//			ClickElement(organisation_list.get(0));
+//		}
 		System.out.println("Tags="+person.tags);
 	
 	
