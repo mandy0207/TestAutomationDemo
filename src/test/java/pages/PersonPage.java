@@ -48,7 +48,7 @@ public class PersonPage extends BasePage {
 	@FindBy(css = "[class='form-field '] .select-box:nth-child(2)")
 	private WebElement titlebox;
 	
-	@FindBy(css = ".select-box__options div")
+	@FindBy(css = ".select-box.select.title-select .select__dropdown .select-box__options div")
 	private List<WebElement> titleList;
 	
 	@FindBy(css = ".party-details__title")
