@@ -1,5 +1,7 @@
 package pages;
 
+import static org.testng.Assert.assertTrue;
+
 import java.time.Duration;
 import java.util.List;
 import java.util.NoSuchElementException;
@@ -122,6 +124,7 @@ public class BasePage {
 	 * @param msg
 	 */
 	public void doSoftAssertFailure(String msg) {
+		System.out.println(msg);
 		softAssert.assertTrue(false, msg);
 		// ReportUtil.addScreenShot(LogStatus.FAIL, msg);
 	}
@@ -201,7 +204,9 @@ public class BasePage {
 
 	}
 
-
+    public void GetAssertFailures(){
+	softAssert.assertAll();
+ }
 
 
 
@@ -366,6 +371,8 @@ public class BasePage {
 		} catch (AssertionError ae) {
 			ReportUtil.addScreenShot(LogStatus.FAIL, "Expected: " + expectedText + ". Actual: " + actualElementText);
 			ReportUtil.logMessage("Text Assertion Error Text", ae.getMessage());
+			doSoftAssertFailure("Text Assertion Error Text not found "+ expectedText);
+			//Assert.assertEquals(expectedText, actualElementText);
 		}
 	}
 

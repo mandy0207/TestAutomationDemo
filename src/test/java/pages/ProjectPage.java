@@ -73,8 +73,10 @@ public class ProjectPage extends BasePage {
 		
 		VerifyElementText(fileStatus.getText(), "Open");
 		
-		
-		
+			
 			
 	}
+	
+	
+	
 }

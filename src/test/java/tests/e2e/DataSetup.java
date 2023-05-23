@@ -49,8 +49,10 @@ public class DataSetup extends BaseTest {
 			});
 
 			
-
 		}
+		
+		projectPage.GetAssertFailures();
+	
 
 	}
 }

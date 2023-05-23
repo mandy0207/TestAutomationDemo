@@ -13,16 +13,4 @@
       </class> <!-- tests.e2e.DataSetup -->
     </classes>
   </test> <!-- DataSetup(failed) -->
-  <test thread-count="5" verbose="0" name="DeleteData(failed)">
-    <classes>
-      <class name="tests.e2e.DeleteData">
-        <methods>
-          <include name="wrapAllUp"/>
-          <include name="DestroyData"/>
-          <include name="wrapUp"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- tests.e2e.DeleteData -->
-    </classes>
-  </test> <!-- DeleteData(failed) -->
 </suite> <!-- Failed suite [Suite] -->

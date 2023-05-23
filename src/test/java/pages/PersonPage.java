@@ -63,13 +63,13 @@ public class PersonPage extends BasePage {
 	@FindBy(css = ".select-box__options a:nth-child(4)")
 	private WebElement organisationBtn;
 	
-	@FindBy(xpath = "//*[@aria-label ='Select or de-select row']")
+	@FindBy(xpath = "//*[@class ='ember-view form-checkbox']")
 	private List<WebElement> checkbox_list;
 	
 	@FindBy(xpath = "//*[@aria-label ='Delete contacts']")
 	private WebElement deletecontactsBtn;
 	
-	@FindBy(css = ".form-checkbox__text")
+	@FindBy(css = "[class*='delete-modal__checkbox']")
 	private WebElement checkUnderstandBtn;
 	
 	@FindBy(xpath = "//*[@class='form-actions']//*[@type='submit']")
@@ -145,6 +145,7 @@ public class PersonPage extends BasePage {
 		try {
 			ClickElement(people_Organisation_Btn);
 			System.out.println("List size="+checkbox_list.size());
+			Thread.sleep(2000);
 			for(WebElement element : checkbox_list) {
 				element.click();
 				
@@ -166,6 +167,7 @@ public class PersonPage extends BasePage {
 			}
 			catch(NoSuchElementException p) {
 				ReportUtil.addScreenShot(LogStatus.FAIL, "Element NOt found");
+				
 			}	
 		}
 		catch(Exception e) {

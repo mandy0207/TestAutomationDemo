@@ -17,5 +17,7 @@ public class DeleteData extends BaseTest  {
 		ReportUtil.logMessage("Test Description **********", String.format("Test Data deletion for test case 2"));
 		personPage.DeleteData();
 		
+		
+		
 	}
 }

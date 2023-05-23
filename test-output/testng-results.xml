@@ -2,35 +2,35 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="24027" started-at="2023-05-18T09:52:30 EDT" finished-at="2023-05-18T09:52:54 EDT">
+  <suite name="Default suite" duration-ms="14734" started-at="2023-05-23T10:12:10 EDT" finished-at="2023-05-23T10:12:25 EDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="24027" started-at="2023-05-18T09:52:30 EDT" finished-at="2023-05-18T09:52:54 EDT">
-      <class name="tests.e2e.DataSetup">
-        <test-method status="PASS" signature="setup()[pri:0, instance:tests.e2e.DataSetup@7a36aefa]" name="setup" is-config="true" duration-ms="3262" started-at="2023-05-18T09:52:30 EDT" finished-at="2023-05-18T09:52:33 EDT">
+    <test name="Default test" duration-ms="14734" started-at="2023-05-23T10:12:10 EDT" finished-at="2023-05-23T10:12:25 EDT">
+      <class name="tests.e2e.DeleteData">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.e2e.DeleteData@5204062d]" name="setup" is-config="true" duration-ms="3435" started-at="2023-05-23T10:12:10 EDT" finished-at="2023-05-23T10:12:14 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TestDataSetup()[pri:0, instance:tests.e2e.DataSetup@7a36aefa]" name="TestDataSetup" duration-ms="19937" started-at="2023-05-18T09:52:33 EDT" finished-at="2023-05-18T09:52:53 EDT">
+        <test-method status="PASS" signature="DestroyData()[pri:0, instance:tests.e2e.DeleteData@5204062d]" name="DestroyData" duration-ms="10329" started-at="2023-05-23T10:12:14 EDT" finished-at="2023-05-23T10:12:24 EDT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TestDataSetup -->
-        <test-method status="PASS" signature="wrapUp()[pri:0, instance:tests.e2e.DataSetup@7a36aefa]" name="wrapUp" is-config="true" duration-ms="676" started-at="2023-05-18T09:52:53 EDT" finished-at="2023-05-18T09:52:54 EDT">
+        </test-method> <!-- DestroyData -->
+        <test-method status="PASS" signature="wrapUp()[pri:0, instance:tests.e2e.DeleteData@5204062d]" name="wrapUp" is-config="true" duration-ms="756" started-at="2023-05-23T10:12:24 EDT" finished-at="2023-05-23T10:12:25 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- wrapUp -->
-        <test-method status="PASS" signature="wrapAllUp(org.testng.ITestContext)[pri:0, instance:tests.e2e.DataSetup@7a36aefa]" name="wrapAllUp" is-config="true" duration-ms="2" started-at="2023-05-18T09:52:54 EDT" finished-at="2023-05-18T09:52:54 EDT">
+        <test-method status="PASS" signature="wrapAllUp(org.testng.ITestContext)[pri:0, instance:tests.e2e.DeleteData@5204062d]" name="wrapAllUp" is-config="true" duration-ms="1" started-at="2023-05-23T10:12:25 EDT" finished-at="2023-05-23T10:12:25 EDT">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@543b0737]]>
+                <![CDATA[org.testng.TestRunner@673c4f6e]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- wrapAllUp -->
-      </class> <!-- tests.e2e.DataSetup -->
+      </class> <!-- tests.e2e.DeleteData -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

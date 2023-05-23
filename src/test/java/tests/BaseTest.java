@@ -175,6 +175,7 @@ public class BaseTest {
 		if (driver != null) {
 			driver.close();
 			driver.quit();
+			
 		}
 	}
 }
